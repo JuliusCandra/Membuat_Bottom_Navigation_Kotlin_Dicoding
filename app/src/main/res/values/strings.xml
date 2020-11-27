@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="candra">Profile Candra Julius Sinaga</string>
+    <string name="fragment_profile">Ini adalah Fragment Profile</string>
+    <string name="klik_tombol">Klik Tombol Ini Untuk Berpindah</string>
+</resources>
